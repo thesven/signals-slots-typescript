@@ -1,0 +1,19 @@
+{
+  "name": "@mikesven/signals-slots",
+  "version": "0.0.1",
+  "description": "Signals and Slots pattern implemented in TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [
+    "Signals",
+    "Slots",
+    "Events"
+  ],
+  "author": "Michael Svendsen",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
